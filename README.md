@@ -3,6 +3,8 @@ This is the implementation of the InfoVAEGAN
 
 Title : InfoVAEGAN: learning joint interpretable representations by information maximization
 
+# Abstract
+
 Learning disentangled and interpretable representations is an important task in
 deep learning. Methods based on variational autoencoders (VAEs) generally yield
 unclear and blurred images when comparing with other powerful generative models
