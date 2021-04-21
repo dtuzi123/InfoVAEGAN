@@ -19,3 +19,14 @@ variety of datasets demonstrate that InfoVAEGAN is able to discover interpretabl
 and disentangled data representations. Moreover, InfoVAEGAN is able to generate
 high quality images when setting parameters specific to the discrete and continuous
 spaces.
+
+# BibTex
+
+@inproceedings{ye2020learning,
+  title={Learning latent representations across multiple data domains using Lifelong VAEGAN},
+  author={Ye, Fei and Bors, Adrian G},
+  booktitle={European Conference on Computer Vision},
+  pages={777--795},
+  year={2020},
+  organization={Springer}
+}
