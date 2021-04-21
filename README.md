@@ -1,5 +1,5 @@
 # InfoVAEGAN
-This is the implementation of the InfoVAEGAN
+This is the implementation of the InfoVAEGAN. This project also includes the implementation of the Deep Mixture Generative Autoencoder (Please see more details in https://github.com/dtuzi123/Mixture-of-VAE-with-dropout).
 
 Title : InfoVAEGAN: learning joint interpretable representations by information maximization
 
