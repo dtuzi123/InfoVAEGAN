@@ -20,13 +20,19 @@ and disentangled data representations. Moreover, InfoVAEGAN is able to generate
 high quality images when setting parameters specific to the discrete and continuous
 spaces.
 
+# Environment
+
+1. Tensorflow 1.5
+2. Python 3.6
+
 # BibTex
 
-@inproceedings{ye2020learning,
-  title={Learning latent representations across multiple data domains using Lifelong VAEGAN},
+@article{ye2021learning,
+  title={Learning joint latent representations based on information maximization},
   author={Ye, Fei and Bors, Adrian G},
-  booktitle={European Conference on Computer Vision},
-  pages={777--795},
-  year={2020},
-  organization={Springer}
+  journal={Information Sciences},
+  volume={567},
+  pages={216--236},
+  year={2021},
+  publisher={Elsevier}
 }
