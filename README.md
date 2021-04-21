@@ -3,6 +3,10 @@ This is the implementation of the InfoVAEGAN
 
 Title : InfoVAEGAN: learning joint interpretable representations by information maximization
 
+# Paper link
+
+https://www.sciencedirect.com/science/article/pii/S0020025521002449
+
 # Abstract
 
 Learning disentangled and interpretable representations is an important task in
