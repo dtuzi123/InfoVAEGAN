@@ -42,3 +42,27 @@ spaces.
   year={2021},
   publisher={Elsevier}
 }
+
+# How the difference between InfoVAEGAN and other related works
+
+![image](https://github.com/dtuzi123/InfoVAEGAN/blob/master/a1.PNG)
+
+# Visual results
+
+![image](https://github.com/dtuzi123/InfoVAEGAN/blob/master/a2.PNG)
+
+![image](https://github.com/dtuzi123/InfoVAEGAN/blob/master/a3.PNG)
+
+![image](https://github.com/dtuzi123/InfoVAEGAN/blob/master/a4.PNG)
+
+![image](https://github.com/dtuzi123/InfoVAEGAN/blob/master/a5.PNG)
+
+![image](https://github.com/dtuzi123/InfoVAEGAN/blob/master/a6.PNG)
+
+
+
+
+
+
+
+
