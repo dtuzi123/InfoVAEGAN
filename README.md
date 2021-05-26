@@ -31,6 +31,11 @@ spaces.
 1. Tensorflow 1.5
 2. Python 3.6
 
+# How to run?
+
+It notes that the file name "InfoVAE" is our InfoVAEGAN model. You can directly run the file by python such as python InfoVAE_3DChairs.py.
+
+
 # BibTex
 
 @article{ye2021learning,
